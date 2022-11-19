@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Murat App",
-    "slug": "estimatemanager",
+    "name": "Mobile App",
+    "slug": "invoice_estimate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon1.png",
